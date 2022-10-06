@@ -1,8 +1,3 @@
-### Hi there 👋
-
-# 💫 About Me:
-<br>- 🚀 I'm Mouawia Hammo an Android Engineer<br>-  💲  DashCoin's Founder and Creator<br>- 🏅 when i'm not coding i'm a big sports guy <br>- ✨ Fun fact : i was a Karate champion when i was 10 years old 
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/MathRoda#1245) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mathroda/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@mathroda) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/mathroda_codes) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/channel/UCPb7sXdmSpwNDjCWAjH0_ww) 
