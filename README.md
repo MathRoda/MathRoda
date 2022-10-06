@@ -14,5 +14,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MathRoda&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MathRoda&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
